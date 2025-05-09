@@ -1,5 +1,4 @@
 #!/bin/bash
-#!/bin/bash
 #ca demande le nom du fichier
 echo "Entrez le nom du fichier :"
 read sample
